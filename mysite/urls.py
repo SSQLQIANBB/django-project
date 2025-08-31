@@ -21,4 +21,5 @@ urlpatterns = [
     path('polls/', include('polls.urls')),
     # The above line includes the URLs from the polls app.
     path('admin/', admin.site.urls),
+    path('tasks/', include('tasks.urls'))  # Include the tasks app URLs
 ]
