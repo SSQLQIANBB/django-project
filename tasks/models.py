@@ -53,3 +53,4 @@ class Article(models.Model):
 # managed=False: 默认为True，如果为False，Django不会为这个模型生成数据表
 # indexes=[]: 为数据表设置索引，对于频繁查询的字段，建议设置索引
 # constraints=: 给数据库中的数据表增加约束。
+
