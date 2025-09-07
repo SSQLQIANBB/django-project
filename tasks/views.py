@@ -2,9 +2,13 @@ from django.shortcuts import render, redirect, get_object_or_404
 from django.urls import reverse
 from .models import Task
 from .forms import TaskForm
+from django.views.generic import ListView
 
 # Create your views here.
 
+
+class ArticleList(ListView):
+    model = Task
 
 # Create a task
 def task_create(request):
