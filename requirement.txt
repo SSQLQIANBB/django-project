@@ -1,0 +1,50 @@
+anaconda-anon-usage @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_6dx95lm6ve/croot/anaconda-anon-usage_1743190146318/work
+annotated-types @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/annotated-types_1728600810161/work
+archspec @ file:///croot/archspec_1709217642129/work
+asgiref==3.8.1
+boltons @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_cc11jmhstw/croot/boltons_1737061711194/work
+Brotli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d7pp3g74_g/croot/brotli-split_1736182638718/work
+certifi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_541lf40aku/croot/certifi_1754570641531/work/certifi
+cffi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_51d1gdg4kr/croot/cffi_1736183297412/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+conda @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_58pretlpg1/croot/conda_1743715300004/work/conda-src
+conda-anaconda-telemetry @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9a7r12ctvr/croot/conda-anaconda-telemetry_1744662559626/work
+conda-anaconda-tos @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_998zo6xf77/croot/conda-anaconda-tos_1744823873836/work
+conda-content-trust @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/conda-content-trust_1728629046705/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1745607008911/work/src
+conda-package-handling @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b5_vfr2fqi/croot/conda-package-handling_1731369042242/work
+conda_package_streaming @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_58icnlhvbg/croot/conda-package-streaming_1731366295477/work
+cryptography @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_28w51s4__9/croot/cryptography_1740577842391/work
+distro @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/distro_1728607015893/work
+Django==5.2.1
+frozendict @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/frozendict_1728632786107/work
+idna @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/idna_1728594952911/work
+jsonpatch @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jsonpatch_1728612838217/work
+jsonpointer==2.1
+libmambapy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_bd_xm961h4/croot/mamba-split_1734469689868/work/libmambapy
+markdown-it-py @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/markdown-it-py_1728596183515/work
+mdurl @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/mdurl_1728595127906/work
+menuinst @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_27kvagn684/croot/menuinst_1738945388149/work
+mysqlclient==2.2.7
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_15t4xe1fp0/croot/packaging_1734472125760/work
+platformdirs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f8agv_yepz/croot/platformdirs_1744273051859/work
+pluggy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_70ykkrsb12/croot/pluggy_1733169619735/work
+pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_67p9tvgx9q/croot/pycosat_1736868714508/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7chf34vaoh/croot/pydantic_1734736078302/work
+pydantic_core @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cbybko3h26/croot/pydantic-core_1734726062333/work
+Pygments @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d3k0kb020b/croot/pygments_1744664134805/work
+PyMySQL==1.1.2
+PySocks @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pysocks_1728595444110/work
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+rich @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4dgbejjrrq/croot/rich_1732638982215/work
+ruamel.yaml @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_d2rv6_3_xb/croot/ruamel.yaml_1745960311974/work
+ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_caqnqpjtlv/croot/ruamel.yaml.clib_1745937161530/work
+setuptools==78.1.1
+sqlparse==0.5.3
+tqdm @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b8a_tjze9j/croot/tqdm_1738946058169/work
+truststore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_16_69k8s1i/croot/truststore_1736550123387/work
+typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dn2s8ln8g/croot/typing_extensions_1734714858107/work
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8bqv7goib8/croot/urllib3_1737133637259/work
+wheel==0.45.1
+zstandard @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_65utj9q8ya/croot/zstandard_1731360545821/work
